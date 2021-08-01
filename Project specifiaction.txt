@@ -1,2 +1,9 @@
 Project  specification
 
+I created a shopping website so customers can choose any product,look for the details and if they liked it they can put it in the cart, after choosing all the products they liked,
+cutomers must open the shopping cart and see all their chosen products and choose the quantity they want.
+
+I tried to work with all the functionalities of react that i saw during the course, i split the project into several components and i used react router.
+I brought an API and consumed it with AXIOS, and to manipulate the data i used the most important javascript array methods. 
+
+
